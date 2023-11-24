@@ -15,8 +15,8 @@ public class wrong_answer {
     }
 
     public static void main(String[] args){
-        int N = 3;
-        String C = "AAA";
+        int N = 6;
+        String C = "ABABAB";
 
         System.out.println(wrong(N,C));
     }
