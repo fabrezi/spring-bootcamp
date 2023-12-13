@@ -12,7 +12,7 @@ public class sum_three_digits {
     public static void main(String[] args){
         int A = 1;
         int B = 2;
-        System.out.println("the sume is:" + sum(A,B));
+        System.out.println("the sum is:" + sum(A,B));
     }
 
 
