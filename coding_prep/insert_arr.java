@@ -1,11 +1,25 @@
+import java.util.Scanner;
+
 public class insert_arr {
 
     public static void main(String [] args){
-        int [] arr = new int [10];
-        arr[1] = 10;
-        arr[2] = 2;
+        int [] arr = {1,2,3,4,5};
 
-        System.out.println(arr);
+        System.out.println("Type an integer: ");
+        Scanner scan = new Scanner(System.in);
+
+        for(int i=0; i <= arr.length; i++){
+            if(arr[i] == scan.nextInt()){
+                System.out.println("BINGO");
+            } else {
+                System.out.println("We did not find a match.");
+                //break;
+            }
+
+        }
+
+
+
     }
 
 
