@@ -1,4 +1,7 @@
 package pkg3;
 
-public class Instrument {
+public abstract class Instrument {
+    public abstract void play();
+
+
 }
