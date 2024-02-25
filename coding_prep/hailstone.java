@@ -2,6 +2,7 @@ import java.time.chrono.ThaiBuddhistEra;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
 public class hailstone {
 
     public static void List<Integer> Seq(int n, int initial_value, int [] arr){
