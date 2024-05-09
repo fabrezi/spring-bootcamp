@@ -8,5 +8,11 @@
 - OOP: encapsulation, polymorphism, inheritance
 - 
 
+## References
+
+These are helpful sites in relation to the study and research on Java:
+
+- [google-java-guide](https://google.github.io/styleguide/javaguide.html)
+- 
 
 

@@ -11,6 +11,7 @@ public class Battleship {
 
     public double Probability(int R, int C, int[][] G){
         //int[][] G = new int[R][C];
+
         int count = 0;
 
 
