@@ -12,7 +12,13 @@ public class arrays {
 
     //make an arra
     public static void main(String[] args){
-        //Array arr =
+        int[] arr = new int[10];
+        String str = "Isquione1@%$";
+        int sizer = str.length();
+        int size = arr.length;
+
+        System.out.println("size= " + size);
+        System.out.println("string-size= " + sizer);
     }
 
 
