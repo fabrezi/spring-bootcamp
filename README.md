@@ -30,4 +30,5 @@ These are helpful sites in relation to the study and research on Java:
 - [spring-monolinth](https://spring.io/blog/2022/10/21/introducing-spring-modulith)
 - [Java-21-overview](https://horstmann.com/unblog/2023-09-19/index.html)
 - [1BRC-Java](https://questdb.io/blog/1brc-merykittys-magic-swar/)
+- [kill-1](https://stackoverflow.com/questions/77485058/will-sending-kill-11-to-java-process-raises-a-nullpointerexception)
 
