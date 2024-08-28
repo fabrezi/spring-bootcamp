@@ -8,10 +8,15 @@ an overview of Java and training exercises to learn Spring framework for web-dev
 
 ## Contents
 
-- History of Java
+- [History of Java](Short History of Java)
 - Java Compiler(Basics)
+- Java versions(timeline)
 - Java Data Types
 - 
+
+
+## Short History of Java
+
 
 ## Concepts
 
@@ -30,4 +35,5 @@ These are helpful sites in relation to the study and research on Java:
 - [spring-monolinth](https://spring.io/blog/2022/10/21/introducing-spring-modulith)
 - [Java-21-overview](https://horstmann.com/unblog/2023-09-19/index.html)
 - [1BRC-Java](https://questdb.io/blog/1brc-merykittys-magic-swar/)
+- [UCLA-Programming](https://www.uclaextension.edu/digital-technology/software-development-programming/certificate/applications-programming)
 
