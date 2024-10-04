@@ -8,7 +8,7 @@ an overview of Java and training exercises to learn Spring framework for web-dev
 
 ## Contents
 
-- [] Short History of Java
+- [x] Short History of Java
 - [] Java Compiler(Basics)
 - [] Java versions(timeline)
 - [] Java Data Types
