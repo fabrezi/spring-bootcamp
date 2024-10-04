@@ -21,7 +21,16 @@ an overview of Java and training exercises to learn Spring framework for web-dev
 
 ## Short History of Java
 
+Java programming language came into existence through the work of James Gosling in 1994. He was working at Sun 
+Microsystems at the time. 
 
+## Java Compiler & JVM
+
+Compiler is a program that translates source code (high-level language) into machine code, bytecode or another 
+programming language. 
+
+JVM is the java virtual machine which allows any machine to run java bytecode. Bytecode are instructions 
+which dictates the ..
 ## Concepts
 
 - Reserved-Words: Identifiers that have special meaning, such as: abstract, enum, goto, public etc.
@@ -30,6 +39,9 @@ an overview of Java and training exercises to learn Spring framework for web-dev
 ## Interview Questions
 
 - What is the difference between `String` and `StringBuffer`.
+A: StringBuffer is changeable while String class is unchangeable once it has been initialized.
+
+
 
 ### References
 
