@@ -17,6 +17,11 @@ an overview of Java and training exercises to learn Spring framework for web-dev
 - [] Constructor
 - [] Arrays
 - [] Strings
+- [] Regular Expression
+- [] Exception Handling
+- [] The big four(encapsualtion...)
+- [] Super class vs this class
+- [] Javadoc
 
 
 ## Short History of Java
