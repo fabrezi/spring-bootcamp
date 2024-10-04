@@ -98,11 +98,6 @@ JVM Loads the bytecode and executes it. This gives us the output.
 - switch
 
 
-## Concepts
-
-- Reserved-Words: Identifiers that have special meaning, such as: abstract, enum, goto, public etc.
-- `Syntax rules dicates the form of the program. Semantics is the meaning of the program.`
-
 ## Interview Questions
 
 - What is the difference between `String` and `StringBuffer`.
