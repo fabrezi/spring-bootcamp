@@ -9,7 +9,8 @@ an overview of Java and training exercises to learn Spring framework for web-dev
 ## Contents
 
 - [x] Short History of Java
-- [] Java Compiler(Basics)
+- [x] Java Compiler(Basics)
+- [] Reserved Names/ Keywords
 - [] Java versions(timeline)
 - [] Java Data Types
 - [] Methods
@@ -19,7 +20,7 @@ an overview of Java and training exercises to learn Spring framework for web-dev
 - [] Strings
 - [] Regular Expression
 - [] Exception Handling
-- [] The big four(encapsualtion...)
+- [] The big four(encapsulation...)
 - [] Super class vs this class
 - [] Javadoc
 
@@ -46,6 +47,55 @@ NOTE: javac expects a FILENAME(sum.java) while java expects a CLASSNAME(sum).
 `java herb`
 
 OUTPUT == WEED IS LIFE!!
+
+Compiler checks the syntax of the source code and compiles it into bytecode.
+JVM Loads the bytecode and executes it. This gives us the output.
+
+
+## Names and Reserved Names and Keywords
+
+- abstract
+- assert
+- boolean
+- break
+- byte
+- case
+- catch
+- char
+- class
+- const
+- continue
+- default
+- do
+- double
+- else
+- extends
+- false
+- final
+- finally
+- float
+- for
+- goto
+- if
+- implements
+- import
+- instanceof
+- int
+- interface
+- long
+- native
+- new
+- null
+- package
+- private
+- protected
+- public
+- return
+- short
+- static
+- strictfp
+- super
+- switch
 
 
 ## Concepts
