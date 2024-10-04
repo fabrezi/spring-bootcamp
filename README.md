@@ -11,7 +11,7 @@ an overview of Java and training exercises to learn Spring framework for web-dev
 - [x] Short History of Java
 - [x] Java Compiler(Basics)
 - [x] Reserved Names/ Keywords
-- [] Java versions(timeline)
+- [x] Java versions(timeline)
 - [] Java Data Types
 - [] Methods
 - [] Class and Objects
@@ -96,6 +96,10 @@ JVM Loads the bytecode and executes it. This gives us the output.
 - strictfp
 - super
 - switch
+
+
+## Java Versions
+Currently I am using `Java 21`.
 
 
 ## References
