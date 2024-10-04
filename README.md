@@ -10,7 +10,7 @@ an overview of Java and training exercises to learn Spring framework for web-dev
 
 - [x] Short History of Java
 - [x] Java Compiler(Basics)
-- [] Reserved Names/ Keywords
+- [x] Reserved Names/ Keywords
 - [] Java versions(timeline)
 - [] Java Data Types
 - [] Methods
@@ -96,13 +96,6 @@ JVM Loads the bytecode and executes it. This gives us the output.
 - strictfp
 - super
 - switch
-
-
-## Interview Questions
-
-- What is the difference between `String` and `StringBuffer`.
-A: StringBuffer is changeable while String class is unchangeable once it has been initialized.
-
 
 
 ### References
