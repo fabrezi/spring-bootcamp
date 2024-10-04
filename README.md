@@ -98,7 +98,7 @@ JVM Loads the bytecode and executes it. This gives us the output.
 - switch
 
 
-### References
+## References
 
 These are helpful sites in relation to the study and research on Java:
 
