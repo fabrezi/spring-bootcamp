@@ -30,7 +30,19 @@ Compiler is a program that translates source code (high-level language) into mac
 programming language. 
 
 JVM is the java virtual machine which allows any machine to run java bytecode. Bytecode are instructions 
-which dictates the ..
+which dictates the VM of how to process the code into machine code.
+
+`.java` file is the code file. `.class` file is the compiled file.
+
+NOTE: javac expects a FILENAME(sum.java) while java expects a CLASSNAME(sum). 
+
+`javac herb.java`
+
+`java herb`
+
+OUTPUT == WEED IS LIFE!!
+
+
 ## Concepts
 
 - Reserved-Words: Identifiers that have special meaning, such as: abstract, enum, goto, public etc.
