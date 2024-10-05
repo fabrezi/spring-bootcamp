@@ -12,7 +12,7 @@ an overview of Java and training exercises to learn Spring framework for web-dev
 - [x] Java Compiler(Basics)
 - [x] Reserved Names/ Keywords
 - [x] Java versions(timeline)
-- [] Java Data Types
+- [x] Java Data Types
 - [] Methods
 - [] Class and Objects
 - [] Constructor
