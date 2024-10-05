@@ -13,7 +13,7 @@ an overview of Java and training exercises to learn Spring framework for web-dev
 - [x] Reserved Names/ Keywords
 - [x] Java versions(timeline)
 - [x] Java Data Types
-- [] Methods
+- [x] Methods
 - [] Class and Objects
 - [] Constructor
 - [] Arrays
@@ -122,6 +122,17 @@ There are two data types: primitive types and reference types.
 
 Primitive types are NOT objects and are directly stored in the 
 memory. 
+
+## Methods
+
+Methods are functions which dictate the behaviour of the class.
+
+Method Anatomy:
+
+[Access Modifier] [Other Modifiers] [return type] [Method Name] (parameter-list) 
+
+Access Modifier: public, private
+Other Modifiers: static, final, abstract..
 
 
 ## References
