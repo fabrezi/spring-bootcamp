@@ -23,6 +23,10 @@ an overview of Java and training exercises to learn Spring framework for web-dev
 - [] The big four(encapsulation...)
 - [] Super class vs this class
 - [] Javadoc
+- [] Switch statements
+- [] Virtual threads
+- [] Generics and Collections
+- [] Modules
 
 
 ## Short History of Java
@@ -100,6 +104,18 @@ JVM Loads the bytecode and executes it. This gives us the output.
 
 ## Java Versions
 Currently I am using `Java 21`.
+
+## Java Data Types
+A type is a set of values and operations on them. A type is either a primitive or reference type.
+
+Boolean (true and false)
+char
+byte
+short
+int
+long
+float
+double
 
 
 ## References
