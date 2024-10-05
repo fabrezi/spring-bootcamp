@@ -109,13 +109,19 @@ Currently I am using `Java 21`.
 A type is a set of values and operations on them. A type is either a primitive or reference type.
 
 Boolean (true and false)
-char
-byte
-short
-int
-long
-float
-double
+byte (8-bit): 128
+short (16 bit): 32767
+int (32 bit): 1237120931023701
+long (64-bit): ....
+float (32-bit): ....
+double (64-bit): ...
+char (16-bit): This contains the ASCII (American Standard Code for Information Interchange) characters. This starts
+               with ''.
+
+There are two data types: primitive types and reference types.
+
+Primitive types are NOT objects and are directly stored in the 
+memory. 
 
 
 ## References
