@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8cd5ca3-b00f-47bc-8b31-97f7e22cb7d8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/spring-bootcamp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding_prep/neetcode/DuplicateIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding_prep/neetcode/DuplicateIntegers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring-bootcamp/neetcode/DuplicateIntegers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring-bootcamp/neetcode/DuplicateIntegers.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +24,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DuplicateIntegers">
+    <configuration name="DuplicateIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="neetcode.DuplicateIntegers" />
+      <module name="spring-bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="neetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="sum_three_digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="meta.sum_three_digits" />
       <module name="spring-bootcamp" />
@@ -41,6 +53,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DuplicateIntegers" />
         <item itemvalue="Application.sum_three_digits" />
       </list>
     </recent_temporary>

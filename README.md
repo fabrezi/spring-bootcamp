@@ -16,6 +16,7 @@ an overview of Java and training exercises to learn Spring framework for web-dev
 - [x] Methods
 - [] Class and Objects
 - [] Constructor
+- [] getter and setter
 - [] Arrays
 - [] Strings
 - [] Regular Expression
@@ -133,6 +134,12 @@ Method Anatomy:
 
 Access Modifier: public, private
 Other Modifiers: static, final, abstract..
+
+## Class and Objects
+
+Class is the blueprint. Instanstiate is to create an object.
+
+`new` operator is to make an object.
 
 
 ## References
