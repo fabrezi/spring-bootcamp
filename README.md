@@ -1,5 +1,7 @@
 ## Spring-Bootcamp
 
+NOTE: THIS PROJECT BROKE ON INTELLIJ. WILL CREATE ANOTHER BRANCH OR PROJECT!!!
+
 The purpose of this repository was to train a programmer on Spring framework. The pre-requisite of Spring 
 is Java programming language. This repository is designed to cover the fundamentals of Java to speed-up the 
 user to learn Spring efficiently. Another purpose of the `bootcamp` is to find a methodology to learn a new programming language. This will allow
