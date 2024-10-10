@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8cd5ca3-b00f-47bc-8b31-97f7e22cb7d8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/coding_prep/neetcode/anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coding_prep/neetcode/teamOut.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coding_prep/neetcode/DuplicateIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding_prep/neetcode/DuplicateIntegers.java" afterDir="false" />
@@ -11,6 +13,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,10 +32,24 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../euC" />
   </component>
   <component name="RunManager" selected="Application.DuplicateIntegers">
     <configuration name="DuplicateIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="neetcode.DuplicateIntegers" />
+      <module name="spring-bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="neetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="charTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="neetcode.charTest" />
       <module name="spring-bootcamp" />
       <extension name="coverage">
         <pattern>
@@ -54,6 +77,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.DuplicateIntegers" />
+        <item itemvalue="Application.charTest" />
         <item itemvalue="Application.sum_three_digits" />
       </list>
     </recent_temporary>
@@ -68,5 +92,16 @@
       <updated>1728310915034</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

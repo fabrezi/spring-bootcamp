@@ -15,6 +15,7 @@ an overview of Java and training exercises to learn Spring framework for web-dev
 - [x] Java Data Types
 - [x] Methods
 - [] Class and Objects
+- [] Enum and Interface Class
 - [] Constructor
 - [] getter and setter
 - [] Arrays
@@ -104,7 +105,7 @@ JVM Loads the bytecode and executes it. This gives us the output.
 
 
 ## Java Versions
-Currently I am using `Java 21`.
+Currently, I am using `Java 21`.
 
 ## Java Data Types
 A type is a set of values and operations on them. A type is either a primitive or reference type.
@@ -137,11 +138,9 @@ Other Modifiers: static, final, abstract..
 
 ## Class and Objects
 
-Class is the blueprint. Instanstiate is to create an object.
+OOP (Object-Oriented Programming) is the heart of Java. 
 
-`new` operator is to make an object.
-
-
+What is a class? 
 ## References
 
 These are helpful sites in relation to the study and research on Java:
