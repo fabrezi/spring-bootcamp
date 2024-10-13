@@ -8,14 +8,12 @@ an overview of Java and training exercises to learn Spring framework for web-dev
 
 ## Contents
 
-%%%%%%%%%%%%%%Module01%%%%%%%%%%%%%%%%
 - [x] Short History of Java
 - [x] Java Compiler(Basics)
 - [x] Reserved Names/ Keywords
 - [x] Java versions(timeline)
 - [x] Java Data Types
 - [x] Methods
-%%%%%%%%%Module02%%%%%%%%%%%%%%%%%%%%
 - [] Class and Objects
 - [] Enum and Interface Class
 - [] Constructor
