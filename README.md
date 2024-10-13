@@ -42,7 +42,8 @@ Compiler is a program that translates source code (high-level language) into mac
 programming language. 
 
 JVM is the java virtual machine which allows any machine to run java bytecode. Bytecode are instructions 
-which dictates the VM of how to process the code into machine code.
+which dictates the VM of how to process the code into machine code. JVM has two purposes: 1. To run java code on 
+any machine. 2. To optimize program memory.
 
 `.java` file is the code file. `.class` file is the compiled file.
 
@@ -57,6 +58,10 @@ OUTPUT == WEED IS LIFE!!
 Compiler checks the syntax of the source code and compiles it into bytecode.
 JVM Loads the bytecode and executes it. This gives us the output.
 
+Q. How do you run source code in a package through cmd?
+
+A. Once the java.class file is created in the subpackage folder. Then move to the source root level and
+then run the run command with dir path to the class file. For instance: `java subpackage/classname.class`
 
 ## Names and Reserved Names and Keywords
 
