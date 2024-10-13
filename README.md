@@ -150,5 +150,6 @@ These are helpful sites in relation to the study and research on Java:
 - [Java-21-overview](https://horstmann.com/unblog/2023-09-19/index.html)
 - [1BRC-Java](https://questdb.io/blog/1brc-merykittys-magic-swar/)
 - [kill-1](https://stackoverflow.com/questions/77485058/will-sending-kill-11-to-java-process-raises-a-nullpointerexception)
-
+- [React-Context](https://legacy.reactjs.org/docs/context.html)
+- [Java-StringArr](https://www.digitalocean.com/community/tutorials/java-string-array-to-string)
 

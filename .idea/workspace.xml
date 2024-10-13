@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8cd5ca3-b00f-47bc-8b31-97f7e22cb7d8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding_prep/neetcode/anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding_prep/neetcode/anagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding_prep/neetcode/teamOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding_prep/neetcode/teamOut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/spring-bootcamp/neetcode/anagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring-bootcamp/neetcode/anagram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/spring-bootcamp/neetcode/teamOut.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring-bootcamp/neetcode/teamOut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
