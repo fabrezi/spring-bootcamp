@@ -8,12 +8,14 @@ an overview of Java and training exercises to learn Spring framework for web-dev
 
 ## Contents
 
+%%%%%%%%%%%%%%Module01%%%%%%%%%%%%%%%%
 - [x] Short History of Java
 - [x] Java Compiler(Basics)
 - [x] Reserved Names/ Keywords
 - [x] Java versions(timeline)
 - [x] Java Data Types
 - [x] Methods
+%%%%%%%%%Module02%%%%%%%%%%%%%%%%%%%%
 - [] Class and Objects
 - [] Enum and Interface Class
 - [] Constructor
@@ -129,6 +131,15 @@ There are two data types: primitive types and reference types.
 
 Primitive types are NOT objects and are directly stored in the 
 memory. 
+
+Variables are values that store data. There are three types
+of variables:
+
+- Local Variable: Declared inside a method.
+- Instance Variable: Outside of method.
+- Static Variable: Outside of method.
+
+
 
 ## Methods
 
