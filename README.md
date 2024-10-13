@@ -157,4 +157,5 @@ These are helpful sites in relation to the study and research on Java:
 - [kill-1](https://stackoverflow.com/questions/77485058/will-sending-kill-11-to-java-process-raises-a-nullpointerexception)
 - [React-Context](https://legacy.reactjs.org/docs/context.html)
 - [Java-StringArr](https://www.digitalocean.com/community/tutorials/java-string-array-to-string)
+- [Java-Library-Software-Engineer](https://www.linkedin.com/jobs/view/3145627369/?refId=cfb6dc0e-55d8-42ee-b2dc-9a7d4946fc9f&trackingId=wp71rJlISd%2BYn8PZlONt7Q%3D%3D)
 
