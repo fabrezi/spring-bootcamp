@@ -14,12 +14,11 @@ an overview of Java and training exercises to learn Spring framework for web-dev
 - [x] Java versions(timeline)
 - [x] Java Data Types
 - [x] Methods
+- [] Arrays && Strings
 - [] Class and Objects
 - [] Enum and Interface Class
 - [] Constructor
 - [] getter and setter
-- [] Arrays
-- [] Strings
 - [] Regular Expression
 - [] Exception Handling
 - [] The big four(encapsulation...)
