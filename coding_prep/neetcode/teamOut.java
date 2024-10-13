@@ -33,7 +33,7 @@ public class teamOut {
 
     public static void main(String[] args){
         String s = "acdppek";
-        String s1 = "poee";
+        String s1 = "poefgp";
         System.out.println("the winner is:=---->" + team(s));
         System.out.println("the winner is:=---->" + team(s1));
     }

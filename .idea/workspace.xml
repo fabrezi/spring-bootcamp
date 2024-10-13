@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b8cd5ca3-b00f-47bc-8b31-97f7e22cb7d8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding_prep/neetcode/anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding_prep/neetcode/anagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/coding_prep/neetcode/teamOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding_prep/neetcode/teamOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring-bootcamp/neetcode/anagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring-bootcamp/neetcode/anagram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring-bootcamp/neetcode/teamOut.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring-bootcamp/neetcode/teamOut.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,11 +31,24 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../euC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Application.teamOut">
     <configuration name="DuplicateIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="neetcode.DuplicateIntegers" />
+      <module name="spring-bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="neetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="neetcode.anagram" />
       <module name="spring-bootcamp" />
       <extension name="coverage">
         <pattern>
@@ -86,6 +102,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.teamOut" />
+        <item itemvalue="Application.anagram" />
         <item itemvalue="Application.DuplicateIntegers" />
         <item itemvalue="Application.charTest" />
         <item itemvalue="Application.sum_three_digits" />
@@ -113,5 +130,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
