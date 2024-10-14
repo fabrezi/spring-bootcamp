@@ -48,7 +48,7 @@ any machine. 2. To optimize program memory.
 
 NOTE: javac expects a FILENAME(sum.java) while java expects a CLASSNAME(sum). 
 
-`javac herb.java`
+`javac herb.java` //javac means java compiler.
 
 `java herb`
 
