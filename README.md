@@ -137,7 +137,6 @@ of variables:
 - Static Variable: Outside of method.
 
 
-
 ## Methods
 
 Methods are functions which dictate the behaviour of the class.
