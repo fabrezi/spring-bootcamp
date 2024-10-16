@@ -145,8 +145,31 @@ Method Anatomy:
 
 [Access Modifier] [Other Modifiers] [return type] [Method Name] (parameter-list) 
 
-Access Modifier: public, private
-Other Modifiers: static, final, abstract..
+Access Modifier: access modifiers are used to define the visibility and accessibility of methods.
+These are the following types:
+
+- public: access from any class or package. 
+- private: access only from the class. 
+- protected: access through same package or sub-classes. 
+- default(no modifier): access only through the same package.
+
+Modifier	Same Class	Same Package	Subclass (Same/Different Package)	Any Class (Any Package)
+public	      Yes	         Yes	                Yes	                          Yes
+private	      Yes	          No	                 No	                           No
+protected	  Yes	         Yes	                Yes	                           No
+default	      Yes	         Yes	                 No	                           No
+
+
+Other Modifiers: These add extra layer of accessibilty of the classes, methods and fields
+These are the following:
+
+static: Used for class-level variables and methods.
+final: Used to define constants, prevent inheritance, and prevent method overriding.
+abstract: Used to define abstract classes and methods that must be implemented in subclasses.
+synchronized: Used to make methods or blocks of code thread-safe in concurrent programming.
+native: Used to declare methods implemented in a language other than Java (typically C or C++).
+
+
 
 ## Class and Objects
 
