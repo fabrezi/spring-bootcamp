@@ -176,6 +176,10 @@ These are the following:
 OOP (Object-Oriented Programming) is the heart of Java. 
 
 What is a class? 
+
+What is an object?
+
+
 ## References
 
 These are helpful sites in relation to the study and research on Java:

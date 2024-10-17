@@ -14,27 +14,33 @@ import java.util.Scanner;
 public class herb {
 
     public static void main(String[] args){
-
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Select the type of herb: ");
+        System.out.println("Sativa or Indica?");
+        String herb = scan.nextLine();
 
-        String input = scan.nextLine();
+        if(!herb.equalsIgnoreCase("sativa") && !herb.equalsIgnoreCase("inidica")){
+            System.out.println("Please type again");
+            return;
+        }
 
-      while(true){
-          if(!input.equalsIgnoreCase("sativa") && !input.equalsIgnoreCase("indica")){
-              System.out.println("the value is incorrect, please try again");
-              break;
-          } else {
-              System.out.println("good job");
-          }
+        String breed = "";
+        if(herb.equals("sativa")){
+            System.out.println("Sour or OG");
+            breed = scan.nextLine();
+            if(!breed.equalsIgnoreCase("sour") && !breed.equalsIgnoreCase("OG")){
+                System.out.println("Try again later");
+                return;
+            }
+        } else if(herb.equals("indica")){
+            System.out.println("afgan or blue");
+            breed = scan.nextLine();
+            if(!breed.equalsIgnoreCase("blue") && !breed.equalsIgnoreCase("afghan")){
+                System.out.println("Try again later");
+                return;
+            }
 
-          scan.close();
-
-      }
-
-
-
+        }
 
     }
 }
