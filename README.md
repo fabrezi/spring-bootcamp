@@ -179,6 +179,9 @@ What is a class?
 
 What is an object?
 
+`==` checks for reference equality. It checks whether the two comparing parts share the same object in 
+memory.
+
 
 ## References
 
