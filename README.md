@@ -27,10 +27,13 @@
 Java programming language came into existence through the work of James Gosling in 1994. He was working at Sun 
 Microsystems at the time. 
 
+
 ## Java Compiler & JVM
 
-Compiler is a program that translates source code (high-level language) into machine code, bytecode or another 
-programming language. 
+Compiler is a program that translates source code (high-level language) into bytecode . 
+Bytecode: A number less then a byte and paired with a mnemonic.
+
+Check bytecode file: `https://hexed.it/`
 
 JVM is the java virtual machine which allows any machine to run java bytecode. Bytecode are instructions 
 which dictates the VM of how to process the code into machine code. JVM has two purposes: 1. To run java code on 
@@ -49,10 +52,16 @@ OUTPUT == WEED IS LIFE!!
 Compiler checks the syntax of the source code and compiles it into bytecode.
 JVM Loads the bytecode and executes it. This gives us the output.
 
+Note: Java is both a compiler(JIT, Java compiler) and interpreter(JVM).
+
 Q. How do you run source code in a package through cmd?
 
 A. Once the java.class file is created in the subpackage folder. Then move to the source root level and
 then run the run command with dir path to the class file. For instance: `java subpackage/classname.class`
+
+Go to the source root directory (`coding_prep`) and then do `java neetcode.xyz`. JVM only looks or starts in 
+source folder by default.
+
 
 ## Names and Reserved Names and Keywords
 
@@ -101,9 +110,11 @@ then run the run command with dir path to the class file. For instance: `java su
 
 
 ## Java Versions
+
 Currently, I am using `Java 21`.
 
 ## Java Data Types
+
 A type is a set of values and operations on them. A type is either a primitive or reference type.
 
 Boolean (true and false)
@@ -115,8 +126,6 @@ float (32-bit): ....
 double (64-bit): ...
 char (16-bit): This contains the ASCII (American Standard Code for Information Interchange) characters. This starts
                with ''.
-
-There are two data types: primitive types and reference types.
 
 Primitive types are NOT objects and are directly stored in the 
 memory. 
@@ -189,3 +198,5 @@ These are helpful sites in relation to the study and research on Java:
 - [Java-Library-Software-Engineer](https://www.linkedin.com/jobs/view/3145627369/?refId=cfb6dc0e-55d8-42ee-b2dc-9a7d4946fc9f&trackingId=wp71rJlISd%2BYn8PZlONt7Q%3D%3D)
 - [OOP-Giant-Book](https://www.javier8a.com/itc/bd1/articulo.pdf)
 - [SIMD-Java](https://jbaker.io/)
+- [JEP483](https://www.morling.dev/blog/jep-483-aot-class-loading-linking/)
+- [Tail-recursion](https://unlinkedlist.org/2023/03/19/tail-call-recursion-in-java-with-asm/)

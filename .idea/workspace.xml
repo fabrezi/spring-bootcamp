@@ -4,6 +4,12 @@
     <list default="true" id="b8cd5ca3-b00f-47bc-8b31-97f7e22cb7d8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring-bootcamp/neetcode/DuplicateIntegers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring-bootcamp/neetcode/herb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring-bootcamp/neetcode/missing_number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring-bootcamp/neetcode/teamOut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring-bootcamp/neetcode/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/spring-bootcamp/neetcode/two_sum.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +34,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sundial" />
   </component>
-  <component name="RunManager" selected="Application.two_sum">
+  <component name="RunManager" selected="Application.contains_Duplicate">
     <configuration name="DuplicateIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="neetcode.DuplicateIntegers" />
       <module name="spring-bootcamp" />
@@ -46,6 +52,19 @@
     </configuration>
     <configuration name="anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="neetcode.anagram" />
+      <module name="spring-bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="neetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="contains_Duplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="neetcode.contains_Duplicate" />
       <module name="spring-bootcamp" />
       <extension name="coverage">
         <pattern>
@@ -83,22 +102,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="two_sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="neetcode.two_sum" />
-      <module name="spring-bootcamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="neetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.anagram" />
+      <item itemvalue="Application.DuplicateIntegers" />
+      <item itemvalue="Application.herb" />
+      <item itemvalue="Application.teamOut" />
+      <item itemvalue="Application.contains_Duplicate" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.two_sum" />
+        <item itemvalue="Application.contains_Duplicate" />
         <item itemvalue="Application.anagram" />
         <item itemvalue="Application.herb" />
         <item itemvalue="Application.teamOut" />
