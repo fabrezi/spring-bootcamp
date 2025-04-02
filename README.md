@@ -200,3 +200,4 @@ These are helpful sites in relation to the study and research on Java:
 - [SIMD-Java](https://jbaker.io/)
 - [JEP483](https://www.morling.dev/blog/jep-483-aot-class-loading-linking/)
 - [Tail-recursion](https://unlinkedlist.org/2023/03/19/tail-call-recursion-in-java-with-asm/)
+- [Java-everything](https://www.teamten.com/lawrence/writings/java-for-everything.html)
