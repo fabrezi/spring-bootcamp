@@ -116,8 +116,14 @@ source folder by default.
 
 Currently, I am using `Java 21`.
 
-JDK is the complete tools needed to build and run a java program. This includes javac (compiler), 
-java (interpreter), javadoc, jar, and jps.
+JDK is the complete tools needed to build and run a java program. This includes:
+
+- javac (compiler), 
+- java ( The launcher that runs compiled Java programs by invoking the JVM)
+- javadoc
+- jar
+- jps (Java Virtual Machine Process Status Tool: A tool to monitor active JVM processes).
+
 
 Each new java version includes updates, new features and performance improvements.
 
