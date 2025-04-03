@@ -31,6 +31,7 @@ Microsystems at the time.
 ## Java Compiler & JVM
 
 Compiler is a program that translates source code (high-level language) into bytecode . 
+Java compiler is called `javac`.
 Bytecode: A number less then a byte and paired with a mnemonic.
 
 Check bytecode file: `https://hexed.it/`
@@ -50,7 +51,9 @@ NOTE: javac expects a FILENAME(sum.java) while java expects a CLASSNAME(sum).
 OUTPUT == WEED IS LIFE!!
 
 Compiler checks the syntax of the source code and compiles it into bytecode.
+`javac` is the de facto compiler.
 JVM Loads the bytecode and executes it. This gives us the output.
+There are multiple JVM: Hotspot JVM (the one I am using), ART (Android Runtime), GraalVM etc.
 
 Note: Java is both a compiler(JIT, Java compiler) and interpreter(JVM).
 
@@ -112,6 +115,18 @@ source folder by default.
 ## Java Versions
 
 Currently, I am using `Java 21`.
+
+JDK is the complete tools needed to build and run a java program. This includes javac (compiler), 
+java (interpreter), javadoc, jar, and jps.
+
+Each new java version includes updates, new features and performance improvements.
+
+Here the famous java versions:
+
+- java8 (2014): lambda expressions
+- java11 (2018): HTTP support
+- java17 (2021): sealed class finalized
+- java21 (2023): sequenced collections in the standard library
 
 ## Java Data Types
 
