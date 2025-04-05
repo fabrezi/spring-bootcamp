@@ -6,8 +6,8 @@
 - [x] [Java versions(timeline)](#java-versions)
 - [x] [Java Data Types](#java-data-types)
 - [x] [Methods](#methods)
-- [] Arrays && Strings
-- [] Class and Objects
+- [] [Arrays && Strings](#array-and-strings)
+- [] [Class and Objects](#objects)
 - [] Enum and Interface Class
 - [] Constructor
 - [] getter and setter
@@ -20,6 +20,7 @@
 - [] Virtual threads
 - [] Generics and Collections
 - [] Modules
+- [x] [References](#references)
 
 
 ## Short History of Java
@@ -28,7 +29,7 @@ Java programming language came into existence through the work of James Gosling 
 Microsystems at the time. 
 
 
-## Java Compiler & JVM
+## Java Compiler
 
 Compiler is a program that translates source code (high-level language) into bytecode . 
 Java compiler is called `javac`.
@@ -193,7 +194,7 @@ These are the following:
 
 
 
-## Class and Objects
+## Objects
 
 OOP (Object-Oriented Programming) is the heart of Java. 
 
