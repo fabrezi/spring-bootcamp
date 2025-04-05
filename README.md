@@ -1,6 +1,6 @@
 ## Contents
 
-- [x] Short History of Java
+- [x] [Short History of Java](#short-history-of-java)
 - [x] Java Compiler(Basics)
 - [x] Reserved Names/ Keywords
 - [x] Java versions(timeline)
