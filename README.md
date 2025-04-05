@@ -1,11 +1,11 @@
 ## Contents
 
 - [x] [Short History of Java](#short-history-of-java)
-- [x] Java Compiler(Basics)
-- [x] Reserved Names/ Keywords
-- [x] Java versions(timeline)
-- [x] Java Data Types
-- [x] Methods
+- [x] [Java Compiler](#java-compiler)
+- [x] [Reserved Names/ Keywords](#keywords)
+- [x] [Java versions(timeline)](#java-versions)
+- [x] [Java Data Types](#java-data-types)
+- [x] [Methods](#methods)
 - [] Arrays && Strings
 - [] Class and Objects
 - [] Enum and Interface Class
@@ -66,7 +66,7 @@ Go to the source root directory (`coding_prep`) and then do `java neetcode.xyz`.
 source folder by default.
 
 
-## Names and Reserved Names and Keywords
+## Keywords
 
 - abstract
 - assert
