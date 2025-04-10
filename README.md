@@ -1,5 +1,6 @@
 ## Contents
 
+- [x] [What is Java?](#What-is-it)
 - [x] [Short History of Java](#short-history-of-java)
 - [x] [Java Compiler](#java-compiler)
 - [x] [Reserved Names/ Keywords](#keywords)
@@ -22,8 +23,25 @@
 - [] Modules
 - [x] [References](#references)
 
+## What is it
 
-## Short History of Java
+Every programming language has distinguishing features which includes the paradigm, type discipline and 
+memory management. Java is a `generic`, `Object-oriented` and `concurrent` language. Further, java is `static`, 
+`strong`, and `safe` data type.
+
+Here these terms are further explained:
+
+- Generic: Allows to create a generic data types and provides type safety.
+- OO: Everything in java is an object except the primitive data types.
+- Concurrent: Ability to work with threads.
+- Static: Data types of each variable must be declared before runtime.
+- Strong: To prevent operations between incompatible types.
+- Safe: Further checks (through compiler and JVM) to ensure code follows type rules and prevent errors such as: 
+Classcastexceptions, Arraystoreexceptions etc. and array bounds checking and null reference checking prevent
+memory corruption and undefined behaviours.
+
+
+## Short History of Java 
 
 Java programming language came into existence through the work of James Gosling in 1994. He was working at Sun 
 Microsystems at the time. 
@@ -139,7 +157,7 @@ Here the famous java versions:
 
 A type is a set of values and operations on them. A type is either a primitive or reference type.
 
-Boolean (true and false)
+Boolean (1-bit): True or false
 byte (8-bit): 128
 short (16 bit): 32767
 int (32 bit): 1237120931023701
@@ -159,6 +177,9 @@ of variables:
 - Instance Variable: Outside of method.
 - Static Variable: Outside of method.
 
+Pass-by-value:
+
+Pass-by-reference:
 
 ## Methods
 
@@ -191,6 +212,11 @@ These are the following:
 - abstract: Used to define abstract classes and methods that must be implemented in subclasses.
 - synchronized: Used to make methods or blocks of code thread-safe in concurrent programming.
 - native: Used to declare methods implemented in a language other than Java (typically C or C++).
+
+
+## Arrays, Strings & Hash Tables
+
+
 
 
 

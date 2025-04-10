@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b8cd5ca3-b00f-47bc-8b31-97f7e22cb7d8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coding_prep/neetcode/contains_Duplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding_prep/neetcode/contains_Duplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/spring-bootcamp/neetcode/contains_Duplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/spring-bootcamp/neetcode/contains_Duplicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding_prep/Hola.java" beforeDir="false" afterPath="$PROJECT_DIR$/coding_prep/Hola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coding_prep/neetcode/contains_Duplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/coding_prep/neetcode/contains_Duplicate.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,16 +33,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../sundial" />
     <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
   </component>
-  <component name="RunManager" selected="Application.contains_Duplicate">
-    <configuration name="DuplicateIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="neetcode.DuplicateIntegers" />
+  <component name="RunManager" selected="Application.Hola">
+    <configuration name="Hola" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hola" />
       <module name="spring-bootcamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="neetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,18 +95,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.anagram" />
-      <item itemvalue="Application.DuplicateIntegers" />
       <item itemvalue="Application.herb" />
       <item itemvalue="Application.teamOut" />
       <item itemvalue="Application.contains_Duplicate" />
+      <item itemvalue="Application.Hola" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hola" />
         <item itemvalue="Application.contains_Duplicate" />
         <item itemvalue="Application.anagram" />
         <item itemvalue="Application.herb" />
         <item itemvalue="Application.teamOut" />
-        <item itemvalue="Application.DuplicateIntegers" />
       </list>
     </recent_temporary>
   </component>
