@@ -37,7 +37,7 @@ Here these terms are further explained:
 - Static: Data types of each variable must be declared before runtime.
 - Strong: To prevent operations between incompatible types.
 - Safe: Further checks (through compiler and JVM) to ensure code follows type rules and prevent errors such as: 
-Classcastexceptions, Arraystoreexceptions etc. and array bounds checking and null reference checking prevent
+`Classcastexceptions`, `Arraystoreexceptions` etc. and array bounds checking and null reference checking prevent
 memory corruption and undefined behaviours.
 
 
@@ -214,7 +214,7 @@ These are the following:
 - native: Used to declare methods implemented in a language other than Java (typically C or C++).
 
 
-## Arrays, Strings & Hash Tables
+## Arrays, Strings
 
 
 
