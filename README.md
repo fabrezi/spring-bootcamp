@@ -249,3 +249,4 @@ These are helpful sites in relation to the study and research on Java:
 - [JEP483](https://www.morling.dev/blog/jep-483-aot-class-loading-linking/)
 - [Tail-recursion](https://unlinkedlist.org/2023/03/19/tail-call-recursion-in-java-with-asm/)
 - [Java-everything](https://www.teamten.com/lawrence/writings/java-for-everything.html)
+- [Java-Uber](https://www.uber.com/en-IL/blog/fixrleak-fixing-java-resource-leaks-with-genai/)
