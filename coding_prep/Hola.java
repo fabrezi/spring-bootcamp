@@ -1,11 +1,22 @@
 public class Hola {
 
-    //private static boolean variable1;
-    public static int variable1 = 10;
+    void print(int number){
+        System.out.println(number);
+    }
+
 
     public static void main(String[] args){
-        System.out.println(variable1);
-        System.out.println("Hola Amigo!!");
+
+        Hola p = new Hola();
+
+        abstract class animal{
+            String name;
+        }
+
+        p.print(5);
+
+
+
 
 
     }
