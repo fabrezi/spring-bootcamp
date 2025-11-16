@@ -250,3 +250,4 @@ These are helpful sites in relation to the study and research on Java:
 - [Tail-recursion](https://unlinkedlist.org/2023/03/19/tail-call-recursion-in-java-with-asm/)
 - [Java-everything](https://www.teamten.com/lawrence/writings/java-for-everything.html)
 - [Java-Uber](https://www.uber.com/en-IL/blog/fixrleak-fixing-java-resource-leaks-with-genai/)
+- [JVM-issues](https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/)
