@@ -252,3 +252,4 @@ These are helpful sites in relation to the study and research on Java:
 - [Java-Uber](https://www.uber.com/en-IL/blog/fixrleak-fixing-java-resource-leaks-with-genai/)
 - [JVM-issues](https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/)
 - [Java-26](https://hanno.codes/2026/03/17/java-26-is-here/)
+- [Java-Fast](https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/)
