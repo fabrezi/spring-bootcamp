@@ -253,3 +253,8 @@ These are helpful sites in relation to the study and research on Java:
 - [JVM-issues](https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/)
 - [Java-26](https://hanno.codes/2026/03/17/java-26-is-here/)
 - [Java-Fast](https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/)
+
+
+#NOTE
+
+The Java Learning Documentation is moving towards Latex document.
