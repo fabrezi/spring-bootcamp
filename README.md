@@ -255,6 +255,6 @@ These are helpful sites in relation to the study and research on Java:
 - [Java-Fast](https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/)
 
 
-#NOTE
+# NOTE
 
 The Java Learning Documentation is moving towards Latex document.
